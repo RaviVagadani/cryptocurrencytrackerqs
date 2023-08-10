@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.currency-image {
+  width: 30px;
+  height: 30px;
+  margin-left: 30px;
+  margin-right: 15px;
+}
+
+.same-fonts {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: roboto;
+  width: 100px;
+  text-align: right;
+}
+
+.same-font {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: roboto;
+}
+
+.to-row {
+  display: flex;
+  align-items: center;
+}
+
+.to-row-space-between {
+  display: flex;
+  justify-content: space-between;
+  width: 96.5%;
+  align-items: center;
+}
